@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,700");
+body {
+  font-family: 'Roboto', sans-serif; }
+
+.opretOverskrift {
+  text-align: center; }
+
+.form-signin input[type="email"] {
+  border-radius: 0px; }
+
+.form-signin input[type="text"] {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom: none; }
+
+.form-signin .h4 {
+  text-align: center; }
+
+.form-signin input[type="radio"] {
+  margin: 0;
+  padding: 0; }
+
+.MenuLinks a {
+  color: #EF4FA6 !important;
+  text-decoration: none;
+  text-transform: uppercase; }
+
+.MenuLinks a:hover {
+  color: #EF4FA6 !important;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: bold; }
+
+.UgensMest {
+  background-image: url("../img/sexibadet-artikel.png") !important;
+  background-size: cover; }
+
+.logo {
+  text-align: center; }
+
+.blog-footer {
+  color: #FAFAFA;
+  background: #EF4FA6;
+  border-top: none; }
+
+.btn-primary, .btn-secondary, .btn-outline-secondary {
+  color: #FAFAFA;
+  background-color: #EF4FA6;
+  border: none; }
+
+.btn-primary:hover, .btn-secondary:hover, .btn-outline-secondary:hover {
+  color: #FAFAFA;
+  background-color: #FFAF46; }
+
+.modal-title, .modal-open {
+  font-family: 'Roboto'; }
+
+.opretForm {
+  background-color: #FFAF46;
+  padding: 2em 0;
+  color: #FAFAFA; }
+
+.text-primary, .text-success {
+  color: #FFAF46 !important; }
+
+.text-dark {
+  font-family: 'Roboto';
+  font-weight: bold; }
+
+.read-more {
+  font-weight: 'Roboto';
+  color: #FFAF46; }
+
+.form-signin {
+  max-width: inherit; }
+  .form-signin .form-control {
+    padding: 12.6px; }
+
+.menuContainer {
+  margin-top: .5em;
+  margin-bottom: 1em; }
+
+.blog-header {
+  line-height: 1;
+  border-bottom: none; }
+
+.soegKnap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center; }
